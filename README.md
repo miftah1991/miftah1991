@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi there 👋, I'm Miftah Amin
 
-<!--
-**miftah1991/miftah1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="360" align="right"> -->
 
-Here are some ideas to get you started:
+- **💻 I'm a Fullstack Developer**   
+- **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 💻 Code: JavaScript, HTML/CSS, Bootstrap, ASP.NET MVC5, SQL-SERVER, React & Redux
+- 👯 Degrees: Bachelor's Computer Science
+- **💬 Ask me about back-end track**
+- **📫 How to reach me: [Facebook](https://www.facebook.com/miftah1991) , [Linkedin](https://www.linkedin.com/in/miftah1991/),Email: miftah.amin1991@gmail.com*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank"> &nbsp;&nbsp; 
+<img src="https://visitor-badge.glitch.me/badge?page_id=miftah1991.visitor-badge" alt="visitors"> 
+
+## Stats
+[![Miftah's GitHub stats](https://github-readme-stats.vercel.app/api?username=miftah1991&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/miftah1991/github-readme-stats)
+
+## 🛠️ My favorite languages and tools
+
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+    <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+</p>
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miftah1991&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -9,7 +9,7 @@
 - **💬 Ask me about back-end track**
 - **📫 How to reach me: [Facebook](https://www.facebook.com/miftah1991) , [Linkedin](https://www.linkedin.com/in/miftah1991/),Email: miftah.amin1991@gmail.com*
 
-<img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank"> &nbsp;&nbsp; 
+<!-- <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank"> &nbsp;&nbsp;  -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=miftah1991.visitor-badge" alt="visitors"> 
 
 ## Stats

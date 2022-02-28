@@ -2,7 +2,7 @@
 
 <!-- <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="360" align="right"> -->
 
-- **💻 I'm a Fullstack Developer**   
+- **💻 I'm a Full-stack developer**   
 - **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💻 Code: JavaScript, HTML/CSS, Bootstrap, ASP.NET MVC5, SQL-SERVER, React & Redux
 - 👯 Degrees: Bachelor's Computer Science
